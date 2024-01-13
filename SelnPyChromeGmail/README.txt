@@ -1,0 +1,1 @@
+Learning to use Selenium with Python and trying a silly example to login to my gmail and compose a convenient mail. Will write more later
